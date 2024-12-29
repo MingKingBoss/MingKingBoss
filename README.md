@@ -63,6 +63,7 @@
   </a> 
 </p>
 
+</p>
 <h3 align="left">Languages Usage</h3>
 <div style="display: flex; align-items: center;">
   <div style="background-color: #3776AB; width: 50.32%; height: 20px;" title="Python 50.32%"></div>
@@ -71,3 +72,4 @@
   <div style="background-color: #00599C; width: 8.65%; height: 20px;" title="C++ 8.65%"></div>
   <div style="background-color: #276DC3; width: 6.65%; height: 20px;" title="R 6.65%"></div>
 </div>
+</p>
