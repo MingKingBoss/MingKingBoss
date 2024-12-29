@@ -12,7 +12,7 @@
 - 📫 How to reach me: **zicheng.yan@mail.utoronto.ca**
 
 <h3 align="left">
-  Connect with me: <a href="https://www.linkedin.com/in/bowei-cheng-12640925a/" target="_blank">LinkedIn</a>
+  Connect with me: <a href="https://www.linkedin.com/in/ming-yan-zicheng/" target="_blank">LinkedIn</a>
 </h3>
 <p align="left">
  
