@@ -65,6 +65,3 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cbwww666)](https://github.com/anuraghazra/github-readme-stats)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Cbwww666&show_icons=true&locale=en" alt="Cbwww666" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Cbwww666&" alt="Cbwww666" /></p>
