@@ -63,13 +63,10 @@
   </a> 
 </p>
 
-</p>
-<h3 align="left">Languages Usage</h3>
-<div style="display: flex; align-items: center;">
-  <div style="background-color: #3776AB; width: 50.32%; height: 20px;" title="Python 50.32%"></div>
-  <div style="background-color: #A8B9CC; width: 25.72%; height: 20px;" title="C 25.72%"></div>
-  <div style="background-color: #734F96; width: 8.66%; height: 20px;" title="Fortran 8.66%"></div>
-  <div style="background-color: #00599C; width: 8.65%; height: 20px;" title="C++ 8.65%"></div>
-  <div style="background-color: #276DC3; width: 6.65%; height: 20px;" title="R 6.65%"></div>
-</div>
-</p>
+### Languages Usage
+
+Python: ██████████████████████████████ 50.32%  
+C: ██████████████ 25.72%  
+Fortran: ████ 8.66%  
+C++: ████ 8.65%  
+R: ██ 6.65%
